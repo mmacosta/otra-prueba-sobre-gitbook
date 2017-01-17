@@ -39,4 +39,9 @@ This is [an example](http://www.ull.es/ "ull")
 
 [this link](http://www.ull.es/)
 
+This is [an example][campus] reference-style link.
+
+[campus]:http://campusvirtual.ull.es/"campus virtual ULL"
+
+
 
