@@ -73,6 +73,23 @@ Text prior to footnote reference.[^2]
 
 
 
+Three or more...
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+Esto es una fórmula: 
+
+$$x=\frac{1+y}{1+2z^2}$$
+
+
+
+
 
 
 
